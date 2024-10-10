@@ -12,8 +12,9 @@ npm install bootstrap
 composer require vlucas/phpdotenv
 ```
 ## Conf env
-```bash
-ADMINUSER =
-ADMINPASS = 
-HOST = 
+```env
+ADMINUSER = admin or root username
+ADMINPASS = admin or rootpassword
+HOST = Mysqlhost
+APP = /path/
 ```
